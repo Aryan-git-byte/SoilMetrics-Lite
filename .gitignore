@@ -1,0 +1,95 @@
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# KiCad
+# ==========================
+
+# Lock files
+*.lck
+
+# Autosave files
+*.autosave
+*.bak
+*.tmp
+
+# Backup folders
+*-backups/
+src-backups/
+
+# Plot outputs
+*.gbr
+*.gbrjob
+*.drl
+*.rpt
+*.csv
+*.pos
+*.d356
+*.step-bak
+
+# Netlists
+*.net
+
+# ==========================
+# Blender
+# ==========================
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# Blender cache
+cache/
+__pycache__/
+
+# ==========================
+# Fusion 360
+# ==========================
+
+# Temporary exports
+*.f3z~
+
+# ==========================
+# Python
+# ==========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ==========================
+# VS Code
+# ==========================
+
+.vscode/
+
+# ==========================
+# Logs
+# ==========================
+
+*.log
+
+# ==========================
+# Temporary Files
+# ==========================
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ==========================
+# Generated Images (optional)
+# Uncomment if you don't want renders in Git
+# ==========================
+# renders/
