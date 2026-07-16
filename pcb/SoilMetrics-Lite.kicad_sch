@@ -5474,7 +5474,7 @@
 			(uuid "f4a38247-4198-4489-9d9e-48b06503c766")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR01")
 					(unit 1)
@@ -5562,7 +5562,7 @@
 			(uuid "9837f4c6-0259-4631-b8b7-03e33c230d5f")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "J2")
 					(unit 1)
@@ -5638,6 +5638,28 @@
 				)
 			)
 		)
+		(property "Link" "https://techiesms.com/product/ch340c-usb-to-serial-converter-ic-sop16/"
+			(at 113.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "45"
+			(at 113.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "75eab9be-f377-4382-b159-ded6cdcb1dc1")
 		)
@@ -5687,7 +5709,7 @@
 			(uuid "ee938e1c-30c1-46a2-b641-3a86a2ad667c")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "U2")
 					(unit 1)
@@ -5790,7 +5812,7 @@
 			(uuid "3b64382c-61f8-4d12-a3d4-6c1ade1288bd")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "C1")
 					(unit 1)
@@ -5821,7 +5843,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "yellow"
 			(at 235.2675 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5875,6 +5897,28 @@
 				)
 			)
 		)
+		(property "Link" "https://robu.in/product/3-mm-dip-led-yellow-50-pcs/"
+			(at 233.68 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "1"
+			(at 233.68 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1371f729-25d3-4965-9f18-4c3044cbd110")
 		)
@@ -5882,7 +5926,7 @@
 			(uuid "769c789b-46ed-4aa5-a28d-21ef233802a6")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "D2")
 					(unit 1)
@@ -5960,7 +6004,7 @@
 			(uuid "38320113-1c05-4d3e-9578-aa494ccedf54")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR014")
 					(unit 1)
@@ -6024,6 +6068,50 @@
 			)
 		)
 		(property "Description" "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28"
+			(at 224.79 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://robu.in/product/atmega328p-pu-pdip-28-microcontroller/"
+			(at 224.79 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "339"
+			(at 224.79 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Socket" "https://robu.in/product/28-pin-narrow-dip-ic-socket-base-adaptor-pack-of-5/"
+			(at 224.79 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "S-price" "6"
 			(at 224.79 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6119,7 +6207,7 @@
 			(uuid "cc05b285-e311-4986-bca9-1c08d660d815")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "U3")
 					(unit 1)
@@ -6197,7 +6285,7 @@
 			(uuid "f5a292c3-0b7e-42cf-954a-11bd1f01744a")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR027")
 					(unit 1)
@@ -6275,7 +6363,7 @@
 			(uuid "fa0e0916-5806-45a1-97c4-edb090fff523")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR012")
 					(unit 1)
@@ -6353,7 +6441,7 @@
 			(uuid "2edfc7c6-b018-4f8d-874d-1f97b91e6ec9")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR028")
 					(unit 1)
@@ -6465,7 +6553,7 @@
 			(uuid "e8f3e977-2a06-4869-ba21-4281794422ae")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "R3")
 					(unit 1)
@@ -6538,6 +6626,28 @@
 				)
 			)
 		)
+		(property "Link" "https://robu.in/product/ds1021-2x3sf11-b-connfly-2x3-pin-2-54mm-pin-header-v-t-type/"
+			(at 138.43 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "3.44"
+			(at 138.43 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "a79cb519-720d-4c21-95df-8dfa308be4ef")
 		)
@@ -6557,7 +6667,7 @@
 			(uuid "6a74f9d7-2ad2-471a-a9aa-1d59181818a0")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "J3")
 					(unit 1)
@@ -6632,6 +6742,28 @@
 				)
 			)
 		)
+		(property "Link" "https://robu.in/product/max485edtr-xblw-sop-8-rs-485-rs-422-ics-rohs/"
+			(at 52.07 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "24"
+			(at 52.07 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "a8233511-5d97-4a85-8a88-2422cf217608")
 		)
@@ -6657,7 +6789,7 @@
 			(uuid "09e619a4-8745-4902-a29b-6750484ed033")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "U1")
 					(unit 1)
@@ -6735,7 +6867,7 @@
 			(uuid "1c93e856-0b96-4c20-a894-91214afce9bc")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR08")
 					(unit 1)
@@ -6839,7 +6971,7 @@
 			(uuid "1e4193bf-bed4-4a58-8360-3daf56d82729")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "C4")
 					(unit 1)
@@ -6917,7 +7049,7 @@
 			(uuid "b5c2c77e-0e24-4581-af69-60f8a2d0d573")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR020")
 					(unit 1)
@@ -7052,7 +7184,7 @@
 			(uuid "8e7da2ef-eae8-4020-8f51-e0909527189d")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "SW1")
 					(unit 1)
@@ -7130,7 +7262,7 @@
 			(uuid "fe5dda4f-697c-400a-8284-58cd7572dc14")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR022")
 					(unit 1)
@@ -7233,7 +7365,7 @@
 			(uuid "bdab9c47-1e81-4acb-9847-6b831a270a6d")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "Y1")
 					(unit 1)
@@ -7311,7 +7443,7 @@
 			(uuid "f03b8dff-3618-4ebc-8357-0a987e55ced2")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR03")
 					(unit 1)
@@ -7389,7 +7521,7 @@
 			(uuid "d75db2d9-3cea-44b8-be87-5d2190edceb9")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR024")
 					(unit 1)
@@ -7492,7 +7624,7 @@
 			(uuid "8d621896-5a8f-49f2-aeda-e0e02b4e06c6")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "C5")
 					(unit 1)
@@ -7570,7 +7702,7 @@
 			(uuid "48ae23d9-933f-4e2b-873b-6b60d31aac36")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR010")
 					(unit 1)
@@ -7648,7 +7780,7 @@
 			(uuid "6c0b128f-aa2e-48e8-85c0-48964cc1c8d2")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR015")
 					(unit 1)
@@ -7726,7 +7858,7 @@
 			(uuid "0b8902d4-b135-454c-822e-9db4bfafee9f")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR06")
 					(unit 1)
@@ -7804,7 +7936,7 @@
 			(uuid "773760fa-32f7-40ec-aaba-abfdc18b35f3")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR04")
 					(unit 1)
@@ -7882,7 +8014,7 @@
 			(uuid "45c97444-8b89-4cc3-a26c-42f41719751e")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR023")
 					(unit 1)
@@ -7983,7 +8115,7 @@
 			(uuid "212d131a-7d27-4b6f-bfb8-96197f5a5f3b")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "R2")
 					(unit 1)
@@ -8061,7 +8193,7 @@
 			(uuid "c42c0b4c-bcc1-4aef-9818-1cde3bcc4bcb")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR09")
 					(unit 1)
@@ -8139,7 +8271,7 @@
 			(uuid "1a13a189-6250-4694-af55-20dab533de0a")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR019")
 					(unit 1)
@@ -8217,7 +8349,7 @@
 			(uuid "7c7352b8-53e0-4e70-8af3-4cfdabd031ba")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR017")
 					(unit 1)
@@ -8295,7 +8427,7 @@
 			(uuid "bcda6b8c-7580-4874-b423-27da18a9aff7")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR05")
 					(unit 1)
@@ -8399,7 +8531,7 @@
 			(uuid "97ec0be6-dbef-4505-a118-a44d505be975")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "C3")
 					(unit 1)
@@ -8477,7 +8609,7 @@
 			(uuid "6a4343a2-02a0-416e-8b3d-3b9ba5abd6da")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR026")
 					(unit 1)
@@ -8555,7 +8687,7 @@
 			(uuid "fef495a3-6110-48ae-9cb8-d36a96001f58")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR025")
 					(unit 1)
@@ -8633,7 +8765,7 @@
 			(uuid "5fe04aad-6189-4628-a5b5-3bce03fb3727")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR016")
 					(unit 1)
@@ -8664,7 +8796,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "green"
 			(at 235.2675 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8718,6 +8850,28 @@
 				)
 			)
 		)
+		(property "Link" "https://robu.in/product/3mm-green-dip-led-pack-of-50/"
+			(at 233.68 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "1.35"
+			(at 233.68 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b1e97766-07ee-458d-959f-581772a13ec2")
 		)
@@ -8725,7 +8879,7 @@
 			(uuid "280efac2-80fd-43ba-b900-9ada0a57a9af")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "D3")
 					(unit 1)
@@ -8803,7 +8957,7 @@
 			(uuid "adbc13ee-1809-4a34-97d3-ffa52c3ebc65")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR02")
 					(unit 1)
@@ -8881,7 +9035,7 @@
 			(uuid "56442831-98eb-4863-afc4-3106cc1df9aa")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR07")
 					(unit 1)
@@ -8959,7 +9113,7 @@
 			(uuid "746e153c-43d9-4579-b244-a329b099052f")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR018")
 					(unit 1)
@@ -9063,7 +9217,7 @@
 			(uuid "a2a01303-cd83-483f-b49f-af443d6bfcac")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "C6")
 					(unit 1)
@@ -9141,7 +9295,7 @@
 			(uuid "1346f665-9c4e-41b9-a018-d44aeccf4b46")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR021")
 					(unit 1)
@@ -9253,7 +9407,7 @@
 			(uuid "4d560f6e-46cc-4bc3-9494-308791bb816e")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "R5")
 					(unit 1)
@@ -9354,7 +9508,7 @@
 			(uuid "333b81f7-50e7-40e6-88b4-e647eec6481d")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "R1")
 					(unit 1)
@@ -9501,7 +9655,7 @@
 			(uuid "546fafd5-98aa-4a7a-b485-c7249d90fd1f")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "J1")
 					(unit 1)
@@ -9573,7 +9727,7 @@
 				)
 			)
 		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(property "Link" "https://robu.in/product/1k-ohm-1-4w-0805-surface-mount-chip-resistor-pack-of-10/"
 			(at 226.06 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -9584,18 +9738,7 @@
 				)
 			)
 		)
-		(property "PARTREV" ""
-			(at 226.06 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "STANDARD" ""
+		(property "Price" "0.54"
 			(at 226.06 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -9613,7 +9756,7 @@
 			(uuid "ab1de2d6-5202-4372-b11c-428c689d2e7e")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "R4")
 					(unit 1)
@@ -9725,7 +9868,7 @@
 			(uuid "611bb0c8-8b59-4533-8772-83ce46e2b4d8")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "R6")
 					(unit 1)
@@ -9803,7 +9946,7 @@
 			(uuid "e8d0235f-ef81-4163-80a7-9ac5333c797c")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR011")
 					(unit 1)
@@ -9881,7 +10024,7 @@
 			(uuid "bead438c-598d-4f5d-a6bf-667a200a651a")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "#PWR013")
 					(unit 1)
@@ -9912,7 +10055,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Red"
 			(at 235.2675 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9966,6 +10109,28 @@
 				)
 			)
 		)
+		(property "Link" "https://robu.in/product/3mm-red-dip-led-pack-of-50/"
+			(at 233.68 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price" "1.51"
+			(at 233.68 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "520b7d05-26d8-439d-aaa8-69d7d0da8c53")
 		)
@@ -9973,7 +10138,7 @@
 			(uuid "6ff872ad-e9d0-40ba-87fc-355926ae42e7")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "D1")
 					(unit 1)
@@ -10076,7 +10241,7 @@
 			(uuid "10c5e4c8-fa85-49c4-af74-1e5f3cfa556f")
 		)
 		(instances
-			(project "src"
+			(project "SoilMetrics-Lite"
 				(path "/f993f190-a7ca-4082-81aa-cda11ebed338"
 					(reference "C2")
 					(unit 1)

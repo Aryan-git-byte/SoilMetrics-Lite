@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "src.kicad_pro",
+    "filename": "SoilMetrics-Lite.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -570,22 +570,22 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -597,7 +597,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -646,6 +646,18 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "S-price",
+          "name": "S-price",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Socket",
+          "name": "Socket",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -691,8 +703,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "src.kicad_sch",
-        "name": "Root",
+        "filename": "SoilMetrics-Lite.kicad_sch",
+        "name": "SoilMetrics-Lite",
         "uuid": "f993f190-a7ca-4082-81aa-cda11ebed338"
       }
     ],
@@ -702,7 +714,7 @@
   "sheets": [
     [
       "f993f190-a7ca-4082-81aa-cda11ebed338",
-      "Root"
+      "SoilMetrics-Lite"
     ]
   ],
   "text_variables": {},

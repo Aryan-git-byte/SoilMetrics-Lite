@@ -26,7 +26,6 @@ src-backups/
 *.gbrjob
 *.drl
 *.rpt
-*.csv
 *.pos
 *.d356
 *.step-bak
